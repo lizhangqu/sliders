@@ -1,35 +1,29 @@
-# Gradle
+# 
 
 Gradle for Android
 
-author : 李樟取
+author : 区长
 
 ## 目录
  
- - 什么是Gradle
- - Gradle入门
- - Gradle的应用
+ - Gradle入门其应用场景
  - Log
  - Task
- - 文件操作
- - 执行命令
  - 构建监听
+ - 文件操作
+ - 命令执行
  - 实战
 
-## 什么是Gradle
-
-## Gradle入门
-
-## Gradle的应用
+## Gradle入门其应用场景
 
 ## Log
 
 ## Task
 
+## 构建监听
+
 ## 文件操作
 
-## 执行命令
-
-## 构建监听
+## 命令执行
 
 ## 实战
